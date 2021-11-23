@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f8e2784b-a550-4128-b6a1-01312dd8f819": {
+      "ProjectGuid": "f8e2784b-a550-4128-b6a1-01312dd8f819",
+      "DisplayName": "Semana 7",
+      "ColorIndex": 0
+    },
+    "5007a568-a8ee-4245-954c-c0fc6e7feffc": {
+      "ProjectGuid": "5007a568-a8ee-4245-954c-c0fc6e7feffc",
+      "DisplayName": "Semana 7.Android",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

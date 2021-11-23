@@ -1,0 +1,19 @@
+D:\Universidad\App mobile\Proyecto\Semana 7\Semana 7\Semana 7\bin\Debug\netstandard2.0\Semana 7.deps.json
+D:\Universidad\App mobile\Proyecto\Semana 7\Semana 7\Semana 7\bin\Debug\netstandard2.0\Semana 7.dll
+D:\Universidad\App mobile\Proyecto\Semana 7\Semana 7\Semana 7\bin\Debug\netstandard2.0\ref\Semana 7.dll
+D:\Universidad\App mobile\Proyecto\Semana 7\Semana 7\Semana 7\bin\Debug\netstandard2.0\Semana 7.pdb
+D:\Universidad\App mobile\Proyecto\Semana 7\Semana 7\Semana 7\obj\Debug\netstandard2.0\Semana 7.csproj.AssemblyReference.cache
+D:\Universidad\App mobile\Proyecto\Semana 7\Semana 7\Semana 7\obj\Debug\netstandard2.0\Semana 7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\App mobile\Proyecto\Semana 7\Semana 7\Semana 7\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Universidad\App mobile\Proyecto\Semana 7\Semana 7\Semana 7\obj\Debug\netstandard2.0\ConsultaRegistro.xaml.g.cs
+D:\Universidad\App mobile\Proyecto\Semana 7\Semana 7\Semana 7\obj\Debug\netstandard2.0\Elemento.xaml.g.cs
+D:\Universidad\App mobile\Proyecto\Semana 7\Semana 7\Semana 7\obj\Debug\netstandard2.0\Login.xaml.g.cs
+D:\Universidad\App mobile\Proyecto\Semana 7\Semana 7\Semana 7\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Universidad\App mobile\Proyecto\Semana 7\Semana 7\Semana 7\obj\Debug\netstandard2.0\Registro.xaml.g.cs
+D:\Universidad\App mobile\Proyecto\Semana 7\Semana 7\Semana 7\obj\Debug\netstandard2.0\Semana 7.AssemblyInfoInputs.cache
+D:\Universidad\App mobile\Proyecto\Semana 7\Semana 7\Semana 7\obj\Debug\netstandard2.0\Semana 7.AssemblyInfo.cs
+D:\Universidad\App mobile\Proyecto\Semana 7\Semana 7\Semana 7\obj\Debug\netstandard2.0\Semana 7.csproj.CoreCompileInputs.cache
+D:\Universidad\App mobile\Proyecto\Semana 7\Semana 7\Semana 7\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Universidad\App mobile\Proyecto\Semana 7\Semana 7\Semana 7\obj\Debug\netstandard2.0\Semana 7.dll
+D:\Universidad\App mobile\Proyecto\Semana 7\Semana 7\Semana 7\obj\Debug\netstandard2.0\ref\Semana 7.dll
+D:\Universidad\App mobile\Proyecto\Semana 7\Semana 7\Semana 7\obj\Debug\netstandard2.0\Semana 7.pdb

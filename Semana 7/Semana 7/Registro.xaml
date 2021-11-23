@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Semana_7.Registro">
+    <ContentPage.Content>
+        <StackLayout>
+            <Entry x:Name="txtNombre"
+                   Placeholder="Ingrese el nombre"></Entry>
+            <Entry x:Name="txtUsuario"
+                   Placeholder="Ingrese el usuario"></Entry>
+
+            <Entry x:Name="txtContrasenia"
+                   Placeholder="Ingrese la contraseñia"
+                   IsPassword="True"></Entry>
+
+            <Button x:Name="tbnAgregar"
+                    Text="Agregar"
+                    Clicked="tbnAgregar_Clicked"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
